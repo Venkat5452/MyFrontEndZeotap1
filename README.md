@@ -23,7 +23,7 @@ o	/combine_rules for combining multiple rules
 •	Backend is deployed on Render.
 •	Frontend is deployed on Netlify.
 # Links:
-•	Deployed Application: https://myrulebased.netlify.app/
-•	Frontend Code: https://github.com/Venkat5452/RulebasedFrontend
-•	Backend Code: https://github.com/Venkat5452/RuleBasedBackend
+1. Deployed Application: https://myrulebased.netlify.app/
+2. Frontend Code: https://github.com/Venkat5452/RulebasedFrontend
+3. Backend Code: https://github.com/Venkat5452/RuleBasedBackend
 
