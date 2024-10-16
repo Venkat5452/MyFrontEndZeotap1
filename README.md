@@ -1,7 +1,7 @@
 # Application 1: Rule Engine with AST:
 # This application is developed using the MERN stack:
-•	Frontend: React.js
-•	Backend: Node.js, Express.js, and MongoDB
+1. Frontend: React.js
+2. Backend: Node.js, Express.js, and MongoDB
 # Steps to Develop the Application
 Frontend:
 1.	Initialize the React app: npx create-react-app frontend
