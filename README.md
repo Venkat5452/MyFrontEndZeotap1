@@ -20,8 +20,8 @@ o	/evaluate_rule for evaluating rules with data
 o	/combine_rules for combining multiple rules
 7.	Run the server using Nodemon: nodemon server.js
 # Deployment:
-•	Backend is deployed on Render.
-•	Frontend is deployed on Netlify.
+  Backend is deployed on Render.
+  Frontend is deployed on Netlify.
 # Links:
 1. Deployed Application: https://myrulebased.netlify.app/
 2. Frontend Code: https://github.com/Venkat5452/RulebasedFrontend
